@@ -1,0 +1,25 @@
+.container-md{
+    background-color: #333;
+}
+
+.navbar-brand
+{
+    color: rgb(155, 4, 4);
+}
+.header
+{
+    background: #ffffff;
+
+}
+.header h1
+{
+text-align: center;
+}
+.carousel-inner h5
+{
+     color: #000;
+}
+.carousel-inner p
+{
+     color: #000;
+}
